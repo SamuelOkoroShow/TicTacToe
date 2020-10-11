@@ -94,7 +94,7 @@ export default class game30 extends Component {
         )
         }else if(x == 2){
            return(
-            <View style={{width:100, height:100, backgroundColor:'#fff', margin:10, justifyContent:'center', alignItems:'center', borderColor:'#e7e7e7', borderBottomWidth:2}}>
+            <View style={{width:100, height:100, backgroundColor:'#ffff', margin:10, justifyContent:'center', alignItems:'center', borderColor:'#e7e7e7', borderBottomWidth:2}}>
             <Image source = {oes} style={{height:80, width:80}} resizeMode = "contain" />
             </View>
         )
